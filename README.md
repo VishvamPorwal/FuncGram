@@ -5,13 +5,14 @@ FuncGram is an open-source project that showcases a character-level bigram langu
 # Evaluation Metric:
 
 In assessing the model's efficacy, FuncGram employs the Average Negative Log Likelihood.
+Achieved 2.26 loss.
 
 # Data Exploration:
 Character Pair Analysis in Function Names:
 ![Pair Matrix](data/pair_matrix.png)
 
 # Model Architectures:
-Gradient based approach(neural_approach.py):
+Gradient-based approach(neural_approach.py):
 ![Model Architecture](data/NN.png)
 
 # Key Features:
