@@ -2,6 +2,18 @@
 
 FuncGram is an open-source project that showcases a character-level bigram language model designed to generate intuitive and relevant function names. Leveraging a simplistic neural network, FuncGram takes into account the sequential nature of characters in function names and predicts appropriate bigram combinations to propose functional identifiers.
 
+# Evaluation Metric:
+
+In assessing the model's efficacy, FuncGram employs the Average Negative Log Likelihood.
+
+# Data Exploration:
+Character Pair Analysis in Function Names:
+![Pair Matrix](data/pair_matrix.png)
+
+# Model Architectures:
+Gradient based approach(neural_approach.py):
+![Model Architecture](data/NN.png)
+
 # Key Features:
 
 1. Character-Level Modeling: FuncGram operates at the character level, analyzing the intricacies of function name composition.
