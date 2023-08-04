@@ -1,4 +1,4 @@
-# FuncGram Character-Level Bigram Language Model for Function Names
+# FuncGram: Character-Level Bigram Language Model for Function Names
 
 FuncGram is an open-source project that showcases a character-level bigram language model designed to generate intuitive and relevant function names. Leveraging a simplistic neural network, FuncGram takes into account the sequential nature of characters in function names and predicts appropriate bigram combinations to propose functional identifiers.
 
